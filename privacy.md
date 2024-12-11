@@ -70,8 +70,7 @@ You have the right to:
 We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
 
 ## Contact Information
-If you have any questions about this Privacy Policy, please contact us at:
-[Your Contact Information]
+If you have any questions about this Privacy Policy, please contact us at: info@techquest.ai
 
 ## Compliance
 This extension complies with:
